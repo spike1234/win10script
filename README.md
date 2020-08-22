@@ -1,5 +1,7 @@
 https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts
 
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7
+
 
 --------
 
